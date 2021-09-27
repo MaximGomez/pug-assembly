@@ -1,2 +1,2 @@
 # pug-assembly
-my main assembly
+add pug
